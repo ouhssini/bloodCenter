@@ -200,14 +200,14 @@ main header .hero .text p {
   /* z-index: -1; */
 }
 
-.intero {
+.intro {
   /* padding: 0.5rem 2rem; */
   text-align: center;
   text-transform: uppercase;
   position: relative;
 }
 
-.intero::after {
+.intro::after {
   position: absolute;
   content: "";
   right: 50%;
